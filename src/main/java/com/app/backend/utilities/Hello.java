@@ -1,4 +1,4 @@
-package com.app.utilities;
+package com.app.backend.utilities;
 
 public class Hello {
 
